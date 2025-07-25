@@ -4,6 +4,18 @@ This project is a complete machine learning pipeline to predict **solar system e
 
 ---
 
+## 📥 Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/ahmadsharara39/Predict-Solar-Photovoltaic-PV-Power-Generation-Using-Historical-Weather-and-Environmental-Data
+cd Predict-Solar-Photovoltaic-PV-Power-Generation-Using-Historical-Weather-and-Environmental-Data
+python "ProjecMLI (1).py"
+```
+
+---
+
 ## 📂 Dataset
 
 The dataset used is `Solar.csv` and contains hourly data for:
@@ -83,9 +95,9 @@ pip install pandas matplotlib seaborn scikit-learn xgboost
 ## 📁 File Structure
 
 ```
-📦 SolarSystemPrediction/
+📦 Predict-Solar-Photovoltaic-PV-Power-Generation-Using-Historical-Weather-and-Environmental-Data/
  ┣ 📄 Solar.csv                ← Input dataset
- ┣ 📄 solar_production_model.py ← Your main ML script
+ ┣ 📄 ProjecMLI (1).py         ← Main ML script
  ┗ 📄 README.md                ← You're reading it!
 ```
 
@@ -111,4 +123,3 @@ GitHub: [@ahmadsharara39](https://github.com/ahmadsharara39)
 ## 📄 License
 
 This project is under the [MIT License](https://choosealicense.com/licenses/mit/).
-
